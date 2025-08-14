@@ -1,5 +1,5 @@
 # Lost-in-Code-land-Creative-Animated-404-Page
-A quirky animated 404 page built with just HTML, CSS, and JavaScript — around 50 lines of pure creativity to turn a boring error page into a fun user experience.
+A quirky animated 404 page built with just HTML and CSS — around 50 lines of pure creativity to turn a boring error page into a fun user experience.
 
 
 This is proof that even an error page can be a place for creativity and fun —  
@@ -8,7 +8,7 @@ and yes, it’s only **~50 lines of code**. ✨
 
 ## 🌟 Features
 - 🎥 Smooth animated scene for “Page Not Found”
-- 💡 Minimal yet engaging — only HTML, CSS & JS
+- 💡 Minimal yet engaging — only HTML & CSS 
 - 🪶 Lightweight (no frameworks, no dependencies)
 - 🖥 Easy to integrate into any project
 
@@ -19,17 +19,17 @@ and yes, it’s only **~50 lines of code**. ✨
 ## 📂 Project Structure
 index.html # Main HTML file
 style.css # Styling for animations
-script.js # Animation logic
 
 
 ## 🚀 Getting Started
 1. **Clone the repository**
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/creative-404-page.git
-Open the project
-Simply open index.html in your browser
-(No installation required)
-Done! 🎉
+2. **Open the project**
+3. **Simply open index.html in your browser**
+
+   (No installation required)
+   Done! 🎉
 
 
 🎯 Purpose
