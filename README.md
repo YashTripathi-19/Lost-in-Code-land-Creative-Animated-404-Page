@@ -5,6 +5,8 @@ A quirky animated 404 page built with just HTML and CSS — around 50 lines of p
 This is proof that even an error page can be a place for creativity and fun —  
 and yes, it’s only **~50 lines of code**. ✨
 
+---
+Play it live on : [https://lost-in-code-land-creative-animated.vercel.app](https://lost-in-code-land-creative-animated.vercel.app)
 
 ## 🌟 Features
 - 🎥 Smooth animated scene for “Page Not Found”
